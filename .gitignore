@@ -1,0 +1,3 @@
+*.so
+test_rust
+test_clib
